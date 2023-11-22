@@ -1,1 +1,9 @@
 /* Add screen styles below */
+h1{
+    align-items: center;
+    color: red;
+}
+
+body{
+    background-color: darkblue;
+}
