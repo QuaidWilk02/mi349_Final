@@ -1,7 +1,7 @@
 /* Add screen styles below */
 h1{
     text-align: center;
-    color: rgb(200, 255, 1);
+    color: rgb(22, 175, 34);
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
 }
 
@@ -10,7 +10,7 @@ body{
 }
 
 .WA{
-    color: rgb(22, 175, 34);
+    color: rgb(200, 255, 1);
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
     text-align: center;
 }
