@@ -1,4 +1,8 @@
 /* Add screen styles below */
+h1{
+    background-color: #26506D;
+    color: #ffffff;
+}
 body{
-    background-color: #e2ffff;
+    background-color: #E2ffff;
 }
