@@ -5,7 +5,11 @@ h1{
     text-align: center;
 }
 .intro{
-    background-color: #E2ffff;
+    
     text-align: center;
     font-size: x-large;
+}
+
+body{
+    background-color: #E2ffff;
 }
