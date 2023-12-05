@@ -16,7 +16,7 @@ body{
 }
 
 .logo{
-    float: inline-end;
+    bottom: 100%;
 }
 .pic{
     font-size: small;
