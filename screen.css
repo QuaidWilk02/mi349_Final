@@ -16,9 +16,7 @@ body{
 }
 
 .logo{
-    bottom: 100%;
-}
-.pic{
     font-size: small;
-    font-style: italic;
+    font-style: italic; 
+    position: fixed;  
 }
