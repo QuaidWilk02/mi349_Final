@@ -16,7 +16,7 @@ body{
 }
 
 .logo{
-    align-items: center;
+    float: inline-end;
 }
 .pic{
     font-size: small;
