@@ -18,6 +18,5 @@ body{
 .logo{
     font-size: small;
     font-style: italic; 
-    position: fixed; 
-    align-items: end;
+    text-align: end;
 }
