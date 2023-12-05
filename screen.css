@@ -3,6 +3,7 @@ h1{
     background-color: #26506D;
     color: #ffffff;
     text-align: center;
+    position: sticky;
 }
 .intro{
     
