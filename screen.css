@@ -31,3 +31,7 @@ article{
     margin: 20px;
     padding: 20px;
 }
+
+article:nth-of-type(2){
+    
+}
