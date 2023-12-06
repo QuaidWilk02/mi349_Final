@@ -21,3 +21,13 @@ body{
     font-style: italic; 
     text-align: center;
 }
+
+section{
+    display: flex;
+
+}
+
+article{
+    margin: 20px;
+    padding: 20px;
+}
