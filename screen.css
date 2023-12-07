@@ -30,9 +30,13 @@ section{
 article{
     margin: 20px;
     padding: 20px;
+    background-color: #26506D;
+    color: #ffffff;
 }
 
 article:nth-of-type(2){
     margin: 20px;
     padding: 20px;
+    background-color: #26506D;
+    color: #ffffff;
 }
