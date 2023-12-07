@@ -33,5 +33,6 @@ article{
 }
 
 article:nth-of-type(2){
-
+    margin: 20px;
+    padding: 20px;
 }
